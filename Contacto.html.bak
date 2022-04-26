@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<title>Bodega Aurrera-Contacto</title>
+		<link rel="shorcut icon" href="ic.png">
+		<link rel="stylesheet" href="Estilo.css">
+	</head>
+	<div class="div1">
+	<body>
+		<img src=foto.png  class="logo">
+		<h1 id= "fuente-Lora-Medium">
+			<font>
+				Contacto
+			</font>
+		</h1>
+		</div>
+		<hr>
+		<div class="div2">
+		<br>
+		<form>
+		<table class="tab">
+			<tr class="tab">
+				<td>
+				<label>Nombre:</label>
+				<input type="text" size="50" name="nombre" id="nombre"></input>
+				</td>
+			</tr>
+			<tr class="tab">
+				<td>
+				<label >Asunto:</label>
+				<input type="text" size="50" name="asunto" id="asunto"></input>
+				</td>
+			</tr>
+			<tr class="tab">
+				<td>
+				<label>Correo:</label>
+				<input type="text" size="50" name="correo" id="correo"></input>
+				</td>
+			</tr>
+			<tr class="tab">
+				<td>
+				<label>Mensaje:</label>
+				<textarea rows="10" cols="30" name="mensaje" id="mensaje"></textarea>
+				</td>
+			</tr>
+			<tr class="tab">
+				<td class="tab">
+					<input type="submit" value="Enviar">
+					<input type="reset">
+				</td>
+			</tr>
+		</table>
+		</form>
+		<br>
+		</div>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13470.928279627744!2d-116.9722785302246!3d32.42633429999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d93b99b180d905%3A0x6340d3a61fe8d030!2sBodega%20Aurrera%2C%20Del%20Prado%20II!5e0!3m2!1ses!2smx!4v1649189535899!5m2!1ses!2smx" width="2000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		<br>
+		<div class="div3">
+		<br>
+		<table class="sin">
+			<tr class="sin">
+				<td><A href="Principal.html"><img src=Aurrera.png class="ico"></A></td>
+				<td><A href="Historia.html"><img src=Historia.png class="ico"></A></td>
+				<td><A href="Producto.html"><img src=Productos.png class="ico"></A></td>
+				<td><A href="Contacto.html"><img src=Contacto.png class="ico"></A></td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div class="div4">
+		<p>
+			<font>
+				&copy; 2022. Derechos reservados<br>
+				Desarrollado por: Dahomy Bravo Garcia
+				Matricula: 01916880
+				Grupo: 605<br>
+				Plantel Nueva Tijuana
+			</font>
+		</p>
+		</div>
+	</body>
+</html>
